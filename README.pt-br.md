@@ -1,4 +1,4 @@
-# 📄 eStaff - Teste Técnico (Fluxo ASO)
+# 📄 Estaff - Teste Técnico (Fluxo ASO)
 
 *Leia em [Inglês 🇺🇸](README.md)*
 
