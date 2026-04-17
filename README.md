@@ -1,4 +1,4 @@
-# 📄 eStaff - Technical Test (ASO Flow)
+# 📄 Estaff - Technical Test (ASO Flow)
 
 *Read this in [Portuguese 🇧🇷](README.pt-br.md)*
 
